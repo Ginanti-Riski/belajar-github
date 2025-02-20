@@ -1,2 +1,3 @@
 Materi GitHub : 
-- Belajar Apa aitu VCS
+- Belajar Apa aitu VCS (Version Control System)
+- Melakukan Adit File
